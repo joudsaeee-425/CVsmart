@@ -1,0 +1,5 @@
+.venv
+previous_version
+__pycache__
+*.pyc
+*.bat
